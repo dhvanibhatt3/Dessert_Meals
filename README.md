@@ -6,7 +6,7 @@ Dessert Meals is an app in Swift using UIKit that allows users to browse recipes
 
 ### User Stories
 
-#### REQUIRED (10pts)
+#### REQUIRED
 - [X] User sees an app icon on the home screen and a styled launch screen.
 - [X] User can view and scroll through a list of Meals in Dessert category sorted alphabetically.
 - [X] User can view the Meal image and name for each meal.
