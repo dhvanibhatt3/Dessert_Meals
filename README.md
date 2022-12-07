@@ -14,3 +14,5 @@ Dessert Meals is an app in Swift using UIKit that allows users to browse recipes
 - [X] User can view Meal details which includes Meal name, Instructions, and Ingrediants.
 
 ### App Walkthrough GIF
+
+<img src="https://github.com/dhvanibhatt3/Fetchrewards_DessertMeals/blob/main/my_walkthroughdessertapp.1.gif" width=250><br>
